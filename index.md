@@ -1,4 +1,4 @@
-# inicio
+# inicio de tema
 # introduccion
 # descripcion
 # caracteristicas
